@@ -1,0 +1,6 @@
+{
+  "name": "CV. Pangan Berkah Sentosa — Field Tracker",
+  "description": "Aplikasi PWA mobile-first untuk pemantauan kehadiran GPS real-time, kunjungan lapangan, laporan penjualan harian, dan target karyawan CV. Pangan Berkah Sentosa.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
